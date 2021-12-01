@@ -281,3 +281,189 @@ SC Business & Economics; Public Administration
 GA CZ4YG
 UT WOS:000367108500015
 ER
+
+PT J
+AU Merigo, JM
+   Mas-Tur, A
+   Roig-Tierno, N
+   Ribeiro-Soriano, D
+AF Merigo, Jose M.
+   Mas-Tur, Alicia
+   Roig-Tierno, Norat
+   Ribeiro-Soriano, Domingo
+TI A bibliometric overview of the Journal of Business Research between 1973
+   and 2014
+SO JOURNAL OF BUSINESS RESEARCH
+LA English
+DT Article
+DE Business research; Bibliometrics; Web of Science; Journal analysis
+ID RETROSPECTIVE EVALUATION; RESEARCH PRODUCTIVITY; KNOWLEDGE-BASE;
+   ECONOMICS; MANAGEMENT; AUTHORS; INSTITUTIONS; ARTICLES; RANKINGS;
+   DECADES
+AB The Journal of Business Research is a leading international journal in business research dating back to 1973. This study analyzes all the publications in the journal since its creation by using a bibliometric approach. The objective is to provide a complete overview of the main factors that affect the journal. This analysis includes key issues such as the publication and citation structure of the journal, the most cited articles, and the leading authors, institutions, and countries in the journal. Unsurprisingly, the USA is the leading region in the journal although a considerable dispersion exists, especially during the last years when European and Asian universities are taking a more significant position. (C) 2015 Elsevier Inc. All rights reserved.
+C1 [Merigo, Jose M.] Univ Chile, Dept Management Control & Informat Syst, Santiago 8330015, Chile.
+   [Mas-Tur, Alicia; Ribeiro-Soriano, Domingo] Univ Valencia, Dept Business Adm, Valencia 46022, Spain.
+   [Roig-Tierno, Norat] Univ Politecn Valencia, Dept Econ & Social Sci, Valencia 46022, Spain.
+RP Merigo, JM (reprint author), Univ Chile, Dept Management Control & Informat Syst, Ave Diagonal Paraguay 257, Santiago 8330015, Chile.
+EM jmerigo@fen.uchile.cl; alicia.mas.tur@gmail.com; noratroig@gmail.com;
+   Domingo.Ribeiro@uv.es
+RI Ribeiro-Soriano, Domingo/G-5798-2015; Merigo, Jose M./G-3614-2010
+OI Ribeiro-Soriano, Domingo/0000-0003-3222-9101; Merigo, Jose
+   M./0000-0002-4672-6961
+FU University of Chile
+FX The authors thank Arch Woodside (Boston College), Cristina
+   Blasco-Carreras (University of Valencia), Daniel Palacios-Marques
+   (Polytechnic University of Valencia), and Francisco Mas-Verdu
+   (Polytechnic University of Valencia) for their valuable comments, which
+   have improved the quality of this research. The authors gratefully
+   acknowledge support from the University of Chile.
+CR ALEXANDER JC, 1994, J FINANC, V49, P697, DOI 10.2307/2329169
+   ALLEN MT, 1991, J URBAN ECON, V30, P373, DOI 10.1016/0094-1190(91)90056-D
+   Alonso S, 2009, J INFORMETR, V3, P273, DOI 10.1016/j.joi.2009.04.001
+   Autor D, 2012, J ECON PERSPECT, V26, P3, DOI 10.1257/jep.26.2.3
+   Baltagi BH, 2007, ECONOMET THEOR, V23, P952, DOI 10.1017/S026646660707051X
+   Borokhovich KA, 2011, J BANK FINANC, V35, P1, DOI 10.1016/j.jbankfin.2010.07.006
+   BROADUS RN, 1987, SCIENTOMETRICS, V12, P373, DOI 10.1007/BF02016680
+   Chan KC, 2009, EUR FINANC MANAG, V15, P676, DOI 10.1111/j.1468-036X.2009.00496.x
+   Cobo MJ, 2015, KNOWL-BASED SYST, V80, P3, DOI 10.1016/j.knosys.2014.12.035
+   Cordoba JR, 2012, EUR J INFORM SYST, V21, P479, DOI 10.1057/ejis.2011.58
+   Coupe T, 2003, J EUR ECON ASSOC, V1, P1309, DOI 10.1162/154247603322752557
+   Egghe L, 2006, SCIENTOMETRICS, V69, P131, DOI 10.1007/s11192-006-0144-7
+   Fagerberg J, 2012, RES POLICY, V41, P1132, DOI 10.1016/j.respol.2012.03.008
+   Garcia-Merino M. T., 2006, TECHNOVATION, V26, P1303
+   HECK JL, 1986, ACCOUNT REV, V61, P735
+   Hirsch JE, 2005, P NATL ACAD SCI USA, V102, P16569, DOI 10.1073/pnas.0507655102
+   Hoepner AGF, 2012, ECOL ECON, V77, P193, DOI 10.1016/j.ecolecon.2012.03.002
+   Hsieh PN, 2009, INT J PROD ECON, V120, P540, DOI 10.1016/j.ijpe.2009.03.015
+   INKPEN AC, 1994, J INT BUS STUD, V25, P703, DOI 10.1057/palgrave.jibs.8490220
+   Knight GA, 2000, J BUS RES, V49, P303, DOI 10.1016/S0148-2963(00)00124-7
+   Landstrom H, 2012, RES POLICY, V41, P1154, DOI 10.1016/j.respol.2012.03.009
+   Leone R. P., 2010, J BUS RES, V65, P1010, DOI DOI 10.1016/JJBUSRES.2011.04.007
+   Loock M., 2015, J BUSINESS
+   Merigo JM, 2015, APPL SOFT COMPUT, V27, P420, DOI 10.1016/j.asoc.2014.10.035
+   Podsakoff PM, 2008, J MANAGE, V34, P641, DOI 10.1177/0149206308319533
+   SCHWERT GW, 1993, J FINANC ECON, V33, P369, DOI 10.1016/0304-405X(93)90012-Z
+   Van Fleet DD, 2006, J MANAGE, V32, P477, DOI 10.1177/0149206306286715
+   Wagstaff A, 2012, J HEALTH ECON, V31, P406, DOI 10.1016/j.jhealeco.2012.03.002
+   Watts RL, 1998, J ACCOUNT ECON, V25, P217, DOI 10.1016/S0165-4101(98)00023-8
+NR 29
+TC 5
+Z9 5
+U1 7
+U2 51
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0148-2963
+EI 1873-7978
+J9 J BUS RES
+JI J. Bus. Res.
+PD DEC
+PY 2015
+VL 68
+IS 12
+BP 2645
+EP 2653
+DI 10.1016/j.jbusres.2015.04.006
+PG 9
+WC Business
+SC Business & Economics
+GA CU2KF
+UT WOS:000363351700024
+ER
+
+PT J
+AU Li, ZM
+   Xu, JP
+   Lev, B
+   Gang, J
+AF Li, Zongmin
+   Xu, Jiuping
+   Lev, Benjamin
+   Gang, Jun
+TI Multi-criteria group individual research output evaluation based on
+   context-free grammar judgments with assessing attitude
+SO OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE
+LA English
+DT Article
+DE Multi-criteria group evaluation; Individual research output; Assessing
+   attitude; Weight determination
+ID GROUP DECISION-MAKING; LINGUISTIC TERM SETS; ANALYTIC HIERARCHY PROCESS;
+   BIBLIOMETRIC INDICATORS; AGGREGATION OPERATORS; HIRSCH-INDEX; H-INDEX;
+   PERFORMANCE; IMPACT
+AB Individual research output (IRO) evaluation is a multi-criteria problem often conducted in groups. In practice, it is necessary to concurrently apply both bibliometric measures and peer review when evaluating the IRO. During the peer review process, different evaluators may use different linguistic terms because of individual differences in cognitive styles, and therefore, they may give ratings based on different assessing attitudes. Further, the weights between bibliometric measures and peer subjective judgments are difficult to determine. Motivated by these difficulties, this paper proposes a quantitative context-free grammar judgment description with an embedded assessing attitude. The proposed method quantitatively handles the assessing attitude and increases the flexibility of the linguistic information. Accordingly, this paper develops a multi-criteria group IRO evaluation method with context-free grammar judgments which concurrently considers bibliometric measures and peer review opinions. To overcome the weighting difficulties and achieve the maximum consensus, this paper proposes a distance-based method to determine the evaluators' weights and a weighted averaging operator to compute the criteria weights. After that, a TOPSIS-based aggregation method is applied to aggregate the objective and subjective ratings. A practical case study is then used to test the feasibility of the methodology. Finally, we discuss the effectiveness of the proposed method. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Li, Zongmin; Xu, Jiuping] Sichuan Univ, Sch Business, Chengdu 510064, Peoples R China.
+   [Lev, Benjamin] Drexel Univ, LeBow Coll Business, Dept Decis Sci, Philadelphia, PA 19104 USA.
+   [Gang, Jun] Sichuan Inst Bldg Res, Chengdu 610081, Peoples R China.
+RP Xu, JP (reprint author), Sichuan Univ, Sch Business, Chengdu 510064, Peoples R China.
+EM xujiuping@scu.edu.cn
+FU Soft Science Project of Sichuan Province [2015ZR0059]; Scientific
+   Research Staring Foundation of Sichuan University [2015SCU11034]
+FX This research was supported by the Soft Science Project of Sichuan
+   Province (Grand no. 2015ZR0059), and the Scientific Research Staring
+   Foundation of Sichuan University (Grant no. 2015SCU11034).
+CR Bai CG, 2014, EXPERT SYST APPL, V41, P4186, DOI 10.1016/j.eswa.2013.12.037
+   Beg I, 2013, INT J INTELL SYST, V28, P1162, DOI 10.1002/int.21623
+   Boschetti F, 2012, ECOL MODEL, V247, P98, DOI 10.1016/j.ecolmodel.2012.07.027
+   Buela-Casal G, 2010, REV PSICODIDACT, V15, P3
+   Dursun M, 2011, EXPERT SYST APPL, V38, P11453, DOI 10.1016/j.eswa.2011.03.019
+   Egghe L, 2010, J INFORMETR, V4, P14, DOI 10.1016/j.joi.2009.06.001
+   Egghe L, 2008, INFORM PROCESS MANAG, V44, P770, DOI 10.1016/j.ipm.2007.05.003
+   Feng B, 2014, OMEGA-INT J MANAGE S, V44, P136, DOI 10.1016/j.omega.2013.07.003
+   Geuna A, 2003, MINERVA, V41, P277, DOI 10.1023/B:MINE.0000005155.70870.bd
+   Hauser D, 1996, EUR J OPER RES, V91, P27, DOI 10.1016/0377-2217(95)00002-X
+   Hirsch JE, 2005, NATURE, V444, P1003
+   Hsee CK, 2003, MUSIC PANDAS MUGGERS
+   Hwang C. L., 1981, MULTIPLE ATTRIBUTES
+   Jin BH, 2007, CHINESE SCI BULL, V52, P855, DOI 10.1007/s11434-007-0145-9
+   Lehmann S, 2008, SCIENTOMETRICS, V76, P369, DOI 10.1007/s11192-007-1868-8
+   Li ZM, 2014, KNOWL-BASED SYST, V56, P253, DOI 10.1016/j.knosys.2013.11.018
+   Liao HC, 2015, KNOWL-BASED SYST, V76, P127, DOI 10.1016/j.knosys.2014.12.009
+   Liao HC, 2014, INFORM SCIENCES, V271, P125, DOI 10.1016/j.ins.2014.02.125
+   Maio Gregory R., 2006, HDB SOCIAL PSYCHOL, P283, DOI 10.1007/0-387-36921-X_12
+   Rezaei J, 2015, OMEGA-INT J MANAGE S, V53, P49, DOI 10.1016/j.omega.2014.11.009
+   Cheema I., 1991, EDUC PSYCHOL, V11, P193, DOI DOI 10.1080/0144341910110301
+   Rinia EJ, 1998, RES POLICY, V27, P95, DOI 10.1016/S0048-7333(98)00026-2
+   Rodriguez RM, 2012, IEEE T FUZZY SYST, V20, P109, DOI 10.1109/TFUZZ.2011.2170076
+   ROKEACH M, 1966, PUBLIC OPIN QUART, V30, P529, DOI 10.1086/267454
+   Schreiber M, 2012, J INFORMETR, V6, P347, DOI 10.1016/j.joi.2012.02.001
+   Seglen PO, 1997, ALLERGY, V52, P1050, DOI 10.1111/j.1398-9995.1997.tb00175.x
+   Tuselmann H, 2015, OMEGA-INT J MANAGE S, V51, P11, DOI 10.1016/j.omega.2014.08.002
+   Van Raan AFJ, 2006, SCIENTOMETRICS, V67, P491, DOI 10.1556/Scient.67.2006.3.10
+   vanRaan AFJ, 1996, SCIENTOMETRICS, V36, P397
+   Wilson RS, 2006, J RISK RES, V9, P165, DOI 10.1080/13669870500419503
+   Witkin H. A., 1981, COGNITIVE STYLES ESS
+   Xu JP, 2013, KNOWL-BASED SYST, V43, P135, DOI 10.1016/j.knosys.2013.01.029
+   Xu JP, 2008, J SYST ENG, V3, P276
+   Xu ZS, 2007, IEEE T FUZZY SYST, V15, P1179, DOI 10.1109/TFUZZ.2006.890678
+   YAGER RR, 1994, FUZZY SET SYST, V67, P129, DOI 10.1016/0165-0114(94)90082-5
+   Yu L, 2011, DECIS SUPPORT SYST, V51, P307, DOI 10.1016/j.dss.2010.11.024
+   Zhang SF, 2011, EXPERT SYST APPL, V38, P11401, DOI 10.1016/j.eswa.2011.03.012
+   Zhu B, 2014, EUR J OPER RES, V239, P794, DOI 10.1016/j.ejor.2014.06.019
+   Zhu YH, 2007, E CHINA EC MANAGEMEN, V21, P21
+NR 39
+TC 2
+Z9 2
+U1 4
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0305-0483
+J9 OMEGA-INT J MANAGE S
+JI Omega-Int. J. Manage. Sci.
+PD DEC
+PY 2015
+VL 57
+BP 282
+EP 293
+DI 10.1016/j.omega.2015.09.001
+PN B
+PG 12
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA CT8MK
+UT WOS:000363070500014
+ER
+
+EF
