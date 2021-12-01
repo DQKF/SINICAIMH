@@ -12,7 +12,9 @@ DT Article
 DE research evaluation; favoritism; nepotism; bibliometrics; universities
 
 PT J
-AU Abramo, G; D'Angelo, CA; Rosati, Foi
+AU Abramo, G
+   D'Angelo, CA
+   Rosati, F
 AF Abramo, Giovanni
    D'Angelo, Ciriaco Andrea
    Rosati, Francesco
