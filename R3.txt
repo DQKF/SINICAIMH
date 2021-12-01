@@ -1,25 +1,24 @@
-TI 中國新時代與百年未有之大變局
-AU 潘維
-DE 大變局
-   強起來
-AB 2021年是中國共產黨建黨100周年,回顧我們的百年史是很有意義的。歷史教科書說,十月革命一聲炮響,給中國送來了馬克思列寧主義。我們黨的文件說,中國共產黨的歷史使命,就是百年以來帶領中華民族做了三件大事:站起來、富起來、強起來。在新的歷史時期,我們的任務就是中華民族要強起來。在強起來之上提出了一個新的綱領,
+PT J
+AU Abramo, G
+   D'Angelo, CA
+   Rosati, F
+AF Abramo, Giovanni
+   D'Angelo, Ciriaco Andrea
+   Rosati, Francesco
+TI The determinants of academic career advancement: Evidence from Italy
+SO SCIENCE AND PUBLIC POLICY
+LA English
+DT Article
+DE research evaluation; favoritism; nepotism; bibliometrics; universities
 
-TI 在世界百年未有之大變局中堅持和發展中國特色社會主義經濟發展道路
-AU 逄錦聚
-DE 習近平新時代中國特色社會主義經濟思想
-   中國特色社會主義經濟發展道路
-   新時代
-   世界百年未有之大變局
-AB 新中國成立特別是改革開放以來,中國共產黨領導中國人民開辟了中國特色社會主義道路,中國特色社會主義經濟發展道路是其核心組成部分。在中國特色社會主義進入新時代,世界處于百年未有之大變局中,堅持和發展中國特色社會主義經濟發展道路是關系中國和世界前途的戰略抉擇。中國特色社會主義經濟發展道路,具有鮮明的中國特色,同時包含人類社會經濟發展的一般規律,是通向人民幸福、國家富強、世界經濟繁榮發展的光明之路。適應新時代和世界百年未有之大變局的要求和挑戰,必須堅持以習近平新時代中國特色社會主義經濟思想為指導,以更加堅定的決心、更加有力的舉措、更加完善的制度,堅持和發展中國特色社會主義經濟發展道路,為中華民族偉大復興和世界經濟繁榮發展提供不竭的強大動力和保證,不斷開創中國和世界的美好未來。
 
-TI 百年未有之大變局下中國出版“走出去”的挑戰和機遇
-AU 王大可
-   馮妮
-DE 中國出版
-   走出去
-   大變局
-   逆全球化
-   一帶一路
-AB 在百年未有之大變局下,世界逆全球化風潮萌發,中國出版走出去面臨制度合作性危機。與此同時,受益于人類命運共同體等理念的提出和一帶一路倡議等實踐的不斷推進,出版走出去仍處于重要的戰略機遇期。未來,中國出版界應堅持先進世界觀引領,增強出版走出去的文化自信,同時積極應用新技術,促進出版走出去的模式升級,為加強和提升中國文化國際競爭力作出更加突出的貢獻。
-
-EF
+PT J
+AU Abramo, G; D'Angelo, CA; Rosati, Foi
+AF Abramo, Giovanni
+   D'Angelo, Ciriaco Andrea
+   Rosati, Francesco
+TI The determinants of academic career advancement: Evidence from Italy
+SO SCIENCE AND PUBLIC POLICY
+LA English
+DT Article
+DE research evaluation; favoritism; nepotism; bibliometrics; universitiesEF
